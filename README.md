@@ -53,7 +53,7 @@ Policy planners, public health/community stakeholders, and organizations interes
   Raw API outputs and intermediate files (audit trail)
 
 ## How to Run
-1. Open `notebooks/final_analysis.ipynb`
+1. Open `notebooks/Data Analysis Final_Artyom-Jay-Quang.ipynb`
 2. Run cells top-to-bottom (or load from the CSV/SQLite artifacts in `data/` for faster reproduction)
 3. SQL queries can be run against `data/final_project.db`and `final_projectV2.db` 
 
