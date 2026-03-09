@@ -32,10 +32,10 @@ Policy planners, public health/community stakeholders, and organizations interes
   - Logistic regression predicting desert_rank25
 
 ## Repository Guide
-- `notebooks/final_analysis.ipynb`  
+- `notebooks/Data Analysis Final_Artyom-Jay-Quang.ipynb`  
   Polished narrative notebook (intro, methodology, QA checks, EDA, models, conclusion)
 
-- `sql/final_sql_queries.sql`  
+- `sql/Final_SQL file.sql`  
   SQL-only deliverable with commented queries (joins, window functions, group by, subqueries)
 
 - `data/`  
@@ -44,6 +44,7 @@ Policy planners, public health/community stakeholders, and organizations interes
   - `services_by_community_area.csv`
   - `community_area_services_plus_hardship_full_with_deserts.csv`
   - `final_project.db`
+  - `final_projectV2.db`
 
 - `slides/Uneven-Access-to-Neurodiversity-Services-Across-Chicago.pdf`  
   Final presentation deck
@@ -54,7 +55,7 @@ Policy planners, public health/community stakeholders, and organizations interes
 ## How to Run
 1. Open `notebooks/final_analysis.ipynb`
 2. Run cells top-to-bottom (or load from the CSV/SQLite artifacts in `data/` for faster reproduction)
-3. SQL queries can be run against `data/final_project.db`
+3. SQL queries can be run against `data/final_project.db`and `final_projectV2.db` 
 
 ## Notes / Limitations
 - OSM tagging is incomplete and may undercount services.
