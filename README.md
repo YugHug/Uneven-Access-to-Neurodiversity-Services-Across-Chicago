@@ -1,3 +1,7 @@
+## Policy Context
+Access to developmental, therapeutic, and neurodiversity-related services plays an important role in children’s educational outcomes and long-term participation in school and work. Yet these services are often unevenly distributed across cities.
+This project examines whether Chicago neighborhoods facing higher socioeconomic hardship also experience lower measured access to neurodiversity-related child services. The goal is not to produce a definitive inventory of services, but to develop a reproducible analytical approach that can help policymakers and community stakeholders identify areas where further validation or service expansion may be needed.
+
 # Uneven-Access-to-Neurodiversity-Services-Across-Chicago
 Neighborhood-level analysis of neurodiversity-related service access in Chicago using OpenStreetMap (Overpass API), hardship indicators, SQL, EDA, and regression models.
 
