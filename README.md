@@ -34,6 +34,11 @@ Policy planners, public health/community stakeholders, and organizations interes
 - Modeling:
   - Linear regression predicting service density
   - Logistic regression predicting desert_rank25
+ 
+## Key Findings
+• Several Chicago community areas with high hardship scores fall into the lowest quartile of measured service access.
+• The model successfully identified most of the lowest-access neighborhoods, though some false positives remain due to incomplete OpenStreetMap tagging.
+• Results suggest that crowdsourced datasets can provide useful early signals of service gaps, but should be paired with local validation.
 
 ## Repository Guide
 - `notebooks/Data Analysis Final_Artyom-Jay-Quang.ipynb`  
